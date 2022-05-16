@@ -30,7 +30,7 @@
     "require": {
         "php": ">=5.3",
         "php-flasher/flasher-laravel": "^0.9",
-        "php-flasher/flasher-cli": "^0.9"
+        "php-flasher/flasher-cli": "^0.9 || ^1.0"
     },
     "autoload": {
         "psr-4": {
